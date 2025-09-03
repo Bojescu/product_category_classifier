@@ -90,14 +90,10 @@ Three usage modes:
   ```bash
   python src/predict_category.py
 
----
-
 ## 7) Results
 - Validation performance is reported in `reports/classification_report.txt`.
 - The confusion matrix is available at `reports/confusion_matrix.png`.
 
 > In the current runs, accuracy was around **~0.99** (may vary by split/seed).
-
----
 
 
