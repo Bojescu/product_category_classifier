@@ -84,7 +84,7 @@ python src/train_model.py \
 
 ---
 
-## **6) Prediction (predict_category.py)**
+# 6) Prediction (predict_category.py)
 Three usage modes:
 - **Interactive** (starts a prompt and returns the category immediately):
   ```bash
@@ -92,7 +92,7 @@ Three usage modes:
 
 ---
 
-## **7) Results**
+# 7) Results
 - Validation performance is reported in `reports/classification_report.txt`.
 - The confusion matrix is available at `reports/confusion_matrix.png`.
 
