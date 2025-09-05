@@ -84,7 +84,7 @@ python src/train_model.py \
 
 ---
 
-### 6) Prediction (predict_category.py)
+## 6) Prediction (predict_category.py)
 Three usage modes:
 - **Interactive** (starts a prompt and returns the category immediately):
   ```bash
